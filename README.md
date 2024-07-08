@@ -1,3 +1,4 @@
+"Stratego 3D" is my university thesis project. The compressed file document shows step-by-step the process of creating the game. 
 [Stratego 3D Πτυχιακή_compressed.pdf](https://github.com/user-attachments/files/16131381/Stratego.3D._compressed.pdf)
 
 Move Pawns/ Swap: https://drive.google.com/file/d/1Kc7EvDwQiGR-qocLTJ52WRerZmaOef8l/view?usp=sharing
